@@ -1,4 +1,5 @@
-//By ChatGPT.
+//Mostly by ChatGPT.
+//ToDo: write comments.
 public class ColorUtils {
     private static final float TAU = (float)Math.TAU;
 
